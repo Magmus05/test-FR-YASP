@@ -1,0 +1,36 @@
+.components-section {
+  margin: 30px auto 0;
+  padding-bottom: 10px;
+ 
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  
+}
+.component-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 9px;
+}
+.component-block__text{
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  color: #898290;
+}
+.component-block__color {
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+}
+.component-block__color_front {
+  background-color: #4ab6e8;
+}
+.component-block__color_back {
+  background-color: #aa6fac;
+}
+.component-block__color_db {
+  background-color: #e85498;
+}

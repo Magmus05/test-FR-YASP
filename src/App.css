@@ -1,0 +1,20 @@
+.container {
+  max-width: 591px;
+  max-height: 534px;
+  border-radius: 7px;
+  background-color: white;
+  margin: 30px auto;
+}
+p {
+  font-size: 14px;
+  font-weight: 600;
+  color: #898290;
+  margin: 0;
+  padding: 0;
+}
+
+.data {
+  width: 500px;
+  margin: 0 auto;
+}
+
